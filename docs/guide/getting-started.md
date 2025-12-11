@@ -10,7 +10,7 @@ ESLint Stylistic is provided as a unified plugin, which supports JS, TS and JSX 
 
 :::info Unified Plugin
 
-We used to provide separate plugins for each language like `@stylistic/eslint-plugin-js`, but **since v5**, we have merged them into a single plugin.
+We used to provide separate plugins for each language like `@stylistic/eslint-plugin-js` and `@stylistic/eslint-plugin-ts`, but **since v5**, we have merged them into a single plugin.
 
 Those separated plugins would still work but would not receive new features. Please consider migrating to the unified plugin.
 
